@@ -15,7 +15,7 @@ module.exports = {
     },
     fontFamily: {
       main: ['Poppins'],
-      secondary: [],
+      secondary: ['Open Sans'],
     },
     extend: {
       colors: {
