@@ -13,6 +13,10 @@ module.exports = {
       '5xl': '3rem',
       '6xl': '4rem',
     },
+    fontFamily: {
+      main: ['Poppins'],
+      secondary: [],
+    },
     extend: {
       colors: {
         gray: {
